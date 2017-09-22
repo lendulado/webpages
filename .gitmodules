@@ -1,0 +1,7 @@
+[submodule "quick/themes/ananke"]
+	path = quick/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "quick/public"]
+	path = quick/public
+	url = https://github.com/lendulado/lendulado.github.io
+	branch = master
