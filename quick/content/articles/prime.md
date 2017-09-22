@@ -1,6 +1,7 @@
 ---
 title: "Prime"
 date: 2017-09-22T23:09:31+02:00
+menu: "articles"
 ---
 
 # Un artículo
